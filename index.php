@@ -77,7 +77,7 @@ foreach ($karyawanData as $karyawan) {
             <?php endforeach; ?>
         </table>
 
-        <button type="submit">Simpan Perubahan</button>
+        <button type="submit">Hitung Jam Lembur</button>
     </form>
 </body>
 </html>
